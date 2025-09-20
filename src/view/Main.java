@@ -1,4 +1,4 @@
-package controller;
+package view;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

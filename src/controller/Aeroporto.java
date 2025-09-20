@@ -19,7 +19,7 @@ public class Aeroporto {
 		
 	}
 	
-	static class aviao implements Runnable{
+	public static class aviao implements Runnable{
 		private final Random random = new Random();
 		public void run() {
 			try {
